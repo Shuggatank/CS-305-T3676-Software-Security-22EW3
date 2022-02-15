@@ -6,9 +6,10 @@ CS-305-T3676 Software Security 22EW3
 The client, Artemis Finacial is a financial consulting company. They develop individual finacial plans for their clients. They would like to modernize their operations with custom software and would like to implement the latest and most effective software security.  
 
 ### - What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
-
+I was able to summarize and assess the vulnerablilties fairly well. Coding securely is important in preventing vulnerabilities in software that may potentially be exposed to exploits and attacks. Software security prevents not only monetary loss, but also prevents loss of customer confidence.
 
 ### - What about the process of working through the vulnerability assessment did you find challenging or helpful?
+
 
 ### - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
