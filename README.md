@@ -15,7 +15,9 @@ CS-305-T3676 Software Security 22EW3
 > To increase the layers of security I suggested to use a strong encryption as well as keep all software up-to-date to prevent any vulnerabilities. Another suggestion would be to use multiple algorithms to validate data and secure credential authentication. 
 
 ### - How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+To ensure the code and software application were functional and secure, I ran the application in HTTPS rather than HTTP to ensure all data commuication was secure and showed up the way it should. After refactoring the code I reran the application to ensure it worked and reran the dependency check to make sure that I did not accidently introduce any new vulnerabilities. 
 
 ### - What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+
 
 ### - Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
