@@ -9,9 +9,10 @@ The client, Artemis Finacial is a financial consulting company. They develop ind
 I was able to summarize and assess the vulnerablilties fairly well. Coding securely is important in preventing vulnerabilities in software that may potentially be exposed to exploits and attacks. Software security prevents not only monetary loss, but also prevents loss of customer confidence.
 
 ### - What about the process of working through the vulnerability assessment did you find challenging or helpful?
-
+I found that the documentation was challenging. Explaining what I've done and the technical data in a simple concise from is challenging and takes a bit of time for me.
 
 ### - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+To increase the layers of security I suggested to use a strong encryption as well as keep all software up-to-date to prevent any vulnerabilities. Another suggestion would be to use multiple algorithms to validate data and secure credential authentication. 
 
 ### - How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
